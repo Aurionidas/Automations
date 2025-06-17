@@ -1,7 +1,7 @@
 function reviewMultipleTags() {
   const spreadsheetId = "SHEET_ID_HERE";
   const book       = SpreadsheetApp.openById(spreadsheetId);
-  const sheet        = book.getSheetByName("Etiquetas");   // ← Cambia aquí si la hoja se llama distinto
+  const sheet        = book.getSheetByName("Etiquetas");  
 
   if (!sheet) {
     Logger.log("❌ No se encontró la hoja llamada 'Etiquetas'");
