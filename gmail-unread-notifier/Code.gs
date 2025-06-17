@@ -8,7 +8,7 @@ function reviewMultipleTags() {
     return;
   }
 
-  // Lee la columna A, quita vacíos:
+  // Reads column A and deletes nulls:
   const tags = sheet.getRange("A1:A")
                         .getValues()
                         .flat()
