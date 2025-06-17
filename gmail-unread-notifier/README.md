@@ -32,12 +32,12 @@ Also, You can notice in the code that the messages are in spanish, those can be 
    - Optionally, name the column `Label`.
 
 2. **Open Apps Script Editor**
-   - In the Google Sheet: `Extensions` → `Apps Script`.
+   - In the Google Sheet: `Extensions` → `Apps Script`. Or go to script.google.com
    - Paste the content of `Code.gs` into the editor.
 
 3. **Customize the Script**
    - Update the following as needed:
-     - Sheet name and range where labels are stored.
+     - Sheet name.
      - Recipient email address.
      - Subject and body format of the alert email.
 
@@ -55,10 +55,12 @@ Also, You can notice in the code that the messages are in spanish, those can be 
 
 ---
 
-### 📁 Files Included
+### 📁 The code
 
 - `Code.gs`: Main automation script.
-- `README.md`: Project overview and setup guide.
+  in this file you'll find the script. you can download it or copy and paste into your Google App Script ptoject.
+
+You can execute it and as a result you'll get an email notifying you how many unread emails you have in the chosen tags. Please be aware tha this script works for a maximum of 500 unread emails. If you have more tha 500 mails per tag, a different approach should be considered in the code.
 
 ---
 
