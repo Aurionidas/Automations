@@ -19,7 +19,9 @@ Although I'm not a JavaScript expert, I was able to:
 - Refine and adapt the script to suit my workflow.
 - Automate it to run hourly using **time-driven triggers**.
 
-This project is not meant to showcase advanced JavaScript skills, but rather to highlight how powerful, accessible automation can be when using **modern tools** creatively — even with limited coding knowledge.
+This project is not meant to showcase advanced JavaScript skills, but rather to highlight how powerful, accessible automation can be when using **modern tools** creatively. Even with limited coding knowledge.
+
+Also, You can notice in the code that the messages are in spanish, those can be adjusted as desired, in this case I Preferred Spanish.
 
 ---
 
