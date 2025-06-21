@@ -12,8 +12,8 @@ The goal of this repository is to showcase real-world automation projects using 
 
 ## 📌 Projects
 
-- ✔️ **App Script Email Notifications:** Script that sends notification emails about unread conversations.
-- ✔️ **App Script Automated Emails:** Automation to contact leads from a database to send automated messages.
+- **App Script Email Notifications:** Script that sends notification emails about unread conversations. ✔️
+- **App Script Automated Emails:** Automation to contact leads from a database to send automated messages. ✔️
 - **n8n Telegram Chatbot:** Automation that receives images, analizes them, appends information to a database and responds with a summary. (Coming soon)
 - **n8n RAG Agent:** Agennt that takes binaries from a Google drive, creates vectorial database and attends requests based on the information from the Drive. (Coming soon) 
 
