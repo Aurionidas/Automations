@@ -10,19 +10,17 @@ The goal of this repository is to showcase real-world automation projects using 
 
 ---
 
-## 📌 Current Automation: Gmail Unread Email Notifier
+## 📌 Projects
 
-**Tool Used:** Google Apps Script  
-**Description:** This automation checks multiple Gmail tags (labels) listed in a Google Sheet and sends an email notification summarizing the number of unread emails in each tag.
+- ✔️ **App Script Email Notifications:** Script that sends notification emails about unread conversations.
+- ✔️ **App Script Automated Emails:** Automation to contact leads from a database to send automated messages.
+- **n8n Telegram Chatbot:** Automation that receives images, analizes them, appends information to a database and responds with a summary. (Coming soon)
+- **n8n RAG Agent:** Agennt that takes binaries from a Google drive, creates vectorial database and attends requests based on the information from the Drive. (Coming soon) 
 
 ---
 
 ### ✅ Features
 
-- Connects to Gmail and scans for unread messages.
-- Uses a Google Sheets file to define which labels (tags) to monitor.
-- Sends an automatic summary email to a predefined address.
-- Can be scheduled to run periodically (e.g., daily) via Google Apps Script triggers.
 
 ---
 
