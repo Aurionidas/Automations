@@ -72,7 +72,7 @@ To improve stability and efficiency, I rebuilt the workflow from scratch with th
 
 Even though the AI agent didn’t return a native JSON format, this custom solution ensures correct parsing without relying on multiple AI nodes.
 
-🖼️ Check the folder for screenshots and side-by-side comparisons of both workflows.
+🖼️ Check the [folder](https://github.com/Aurionidas/Automations/tree/main/n8n-chatbot/images) for screenshots and side-by-side comparisons of both workflows.
 
 ---
 
