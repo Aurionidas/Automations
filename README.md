@@ -23,13 +23,13 @@ Here's a quick overview of what you'll find:
 
 ## 📌 Projects
 
-- **📧 App Script – Email Notifications**  
-  Automatically sends alerts about unread email threads. ✔️
+- **📧 App Script – Email Notifications** ✔️
+  Automatically sends alerts about unread email threads.
 
-- **📨 App Script – Automated Outreach**  
-  Uses a Google Sheet database to send personalized emails to leads. ✔️
+- **📨 App Script – Automated Outreach** ✔️
+  Uses a Google Sheet database to send personalized emails to leads. 
 
-- **🤖 n8n – Telegram Chatbot** *(Coming soon)*  
+- **🤖 n8n – Telegram Chatbot** ✔️
   Accepts images via Telegram, analyzes content, stores it in a database, and replies with summaries.
 
 - **🧠 n8n – RAG Agent** *(Coming soon)*  
