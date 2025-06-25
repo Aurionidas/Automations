@@ -69,7 +69,7 @@ A few additional notes:
 
 - 💌 Each email includes the recipient’s name for a personal touch (e.g., "Hi Juan").
 - 🧪 I tested the script with sample data and a test email address — everything worked as expected.
-- 🗂️ The code can be found in the `/appscript-automated-emails` folder of this repository.
+- 🗂️ The code can be found in the `/appscript-automated-emails.gs` file.
 - 🖋️ You can enhance this project further by crafting a custom HTML email body — though that part is left to your imagination and specific use case.
 
 Thanks for reading!
