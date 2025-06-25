@@ -34,7 +34,7 @@ The first version follows the structure proposed in the course:
 
 The bot allows users to upload invoices in various formats and automatically registers the information into a Google Sheets tracker. The bot then replies with a summary.
 
-📷 You can check the screenshots of this initial workflow and output in this folder.
+📷 You can check the screenshots of this initial workflow and output in [this folder](https://github.com/Aurionidas/Automations/tree/main/n8n-chatbot/images).
 
 ---
 
