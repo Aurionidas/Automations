@@ -23,7 +23,7 @@ Here's a quick overview of what you'll find:
 
 ## 📌 Projects
 
-- **📧 App Script – Email Notifications** ✔️
+- **📧 App Script – Email Notifications** ✔️   
   Automatically sends alerts about unread email threads.
 
 - **📨 App Script – Automated Outreach** ✔️
